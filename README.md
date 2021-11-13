@@ -1,2 +1,2 @@
-# ProiectLabotatorJava
+# ProiectLaboratorJava
 Documentatie proiect
